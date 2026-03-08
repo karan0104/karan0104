@@ -15,5 +15,6 @@ BS Computer Engineering — University of Illinois Urbana-Champaign
 Python · SQL Server · C++ · FastAPI · PyTorch · TensorFlow · SQLAlchemy · Ansible · Git
 
 ## Projects
+- [`tabscribe`](https://github.com/karan0104/tabscribe) — Chrome extension for quick webpage note-taking
 - [`ai_engineering_projects`](https://github.com/karan0104/ai_engineering_projects) — AI engineering portfolio (in progress)
 - [`dev-projects`](https://github.com/karan0104/dev-projects) — Python tools and scripts
